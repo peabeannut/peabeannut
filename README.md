@@ -27,7 +27,7 @@
 <details>
   <summary>⚡ GitHub Stats</summary>
 <br>
-<a href="https://github.com/SealedSaucer">
+<a href="https://github.com/peabeannut">
 <img align="center" alt="Nut | GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=peabeannut&&show_icons=true&theme=tokyonight&layout=compact"/>
 <br>
 <br>
