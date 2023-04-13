@@ -1,7 +1,10 @@
 ### Hi there, i'm [Nut] 👋
 
 - 😄 Pronouns: He/Him
-- [![BiKhaw]]❤  Only: She/Her
+- ❤  Only: She/Her
+
+[![BiKhaw](https://img.shields.io/website?label=phantom.is-a.dev&style=for-the-badge&url=https%3A%2F%2Fphantom.is-a.dev)]
+
 ---
 
 ### Discord Status
