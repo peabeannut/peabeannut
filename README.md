@@ -1,4 +1,4 @@
-### Hi there, i'm Nut 👋
+### Hi there, i'm [Nut] 👋
 
 - 😄 Pronouns: He/Him
 
