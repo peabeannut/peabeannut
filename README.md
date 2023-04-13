@@ -7,6 +7,12 @@
 ### Discord Status
 [<img height="80px" src="https://discord.c99.nl/widget/theme-4/305984210731139073.png"/>](https://discord.com/users/305984210731139073)
 
+### Contact me: 
+
+[<img align="left" alt="Nut | Twitter" width="23px" src="https://i.imgur.com/EQxn7vo.png"/>](https://twitter.com/peabeannut)
+[<img align="left" alt="Nut | Instagram" width="23px" src="https://i.imgur.com/SCTr4il.png"/>](https://instagram.com/peabeannut)
+</br>
+
 ### Languages and Tools: 
 
 [<img align="left" alt="GitHub" width="26px" src="https://skillicons.dev/icons?i=github"/>](https://github.com)
