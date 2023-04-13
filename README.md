@@ -9,7 +9,7 @@
 
 ### Contact me: 
 
-[<img align="left" alt="Nut | Twitter" width="23px" src="https://i.imgur.com/EQxn7vo.png"/>](https://twitter.com/peabeannut)
+[<img align="left" alt="Nut | Twitter" width="23px" src="https://i.imgur.com/EQxn7vo.png"/>](https://twitter.com/nu6790gamer)
 [<img align="left" alt="Nut | Instagram" width="23px" src="https://i.imgur.com/SCTr4il.png"/>](https://instagram.com/peabeannut)
 </br>
 
