@@ -16,3 +16,14 @@
 <br>
 
 ---
+
+<details>
+  <summary>⚡ GitHub Stats</summary>
+<br>
+<a href="https://github.com/SealedSaucer">
+<img align="center" alt="Nut | GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=peabeannut&&show_icons=true&theme=tokyonight&layout=compact"/>
+<br>
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peabeannut&show_icons=true&theme=tokyonight&layout=compact" alt="Phantom | GitHub Stats"/>
+</a>
+</details>
