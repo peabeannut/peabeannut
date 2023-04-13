@@ -1,7 +1,7 @@
 ### Hi there, i'm [Nut] 👋
 
 - 😄 Pronouns: He/Him
-
+- [![BiKhaw]]❤  Only: She/Her
 ---
 
 ### Discord Status
