@@ -1,4 +1,4 @@
-### ` Hi there, i'm [Nut](https://github.com/peabeannut)  👋 `
+### ` Hi there, `i'm [Nut](https://github.com/peabeannut) 👋 
 
 - 😄 Pronouns: He/Him
 - ❤  Only: She/Her
